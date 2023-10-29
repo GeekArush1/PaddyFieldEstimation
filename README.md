@@ -32,7 +32,9 @@ Open gui.ipynb and run all cells. A window will open.
 ## Refernce and Resources:
 -   ### ChatGPT
     Prompts given:
-    -   using tkinter, write a code with widgets showing the title, description and to input an image
+    -   "using tkinter, write a code with widgets showing the title, description and to input an image"
+    - "I am inputting the folder which contains separate folder containing images each of jute, maize, rice, sugarcane and wheat. Streamline the training of model according to that and return me full correct code to identify rice out of all the images, given one test image."
+    Also used it for debugging.
 
 -  https://www.kaggle.com/datasets/girishkleit/riceonfiledimages/data
 - https://agritech.tnau.ac.in/expert_system/paddy/TNvarieties.html
