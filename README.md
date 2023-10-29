@@ -34,6 +34,14 @@ Open gui.ipynb and run all cells. A window will open.
     Prompts given:
     -   "using tkinter, write a code with widgets showing the title, description and to input an image"
     - "I am inputting the folder which contains separate folder containing images each of jute, maize, rice, sugarcane and wheat. Streamline the training of model according to that and return me full correct code to identify rice out of all the images, given one test image."
+    - "Getting following error:
+
+        ```
+        Traceback (most recent call last):
+        File "/home/aditya/Desktop/Megathon/model2.py", line 79, in <module>
+            label = img.split("_")[0]  # Assuming the variety name is before the underscore
+        TypeError: Image.split() takes 1 positional argument but 2 were given
+        ```
     Also used it for debugging.
 
 -  https://www.kaggle.com/datasets/girishkleit/riceonfiledimages/data
